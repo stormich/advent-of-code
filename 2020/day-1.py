@@ -38,6 +38,6 @@ def multiplySumOfThreeNumbersOf2020(reportList):
 
 
 print()
-print(multiplySumOfTwoNumbersOf2020(getReportList('ExpenseReport.txt')))
+print(multiplySumOfTwoNumbersOf2020(getReportList('day-1-input.txt')))
 print()
-print(multiplySumOfThreeNumbersOf2020(getReportList('ExpenseReport.txt')))
+print(multiplySumOfThreeNumbersOf2020(getReportList('day-1-input.txt')))
